@@ -23,7 +23,7 @@ Lenguajes
    - MySQL, SQL Oracle.
 ## Cargo Actual
  ### Alteor - Santiago, Chile.
- #### Desarrollador Android
+ #### Desarrollador
    Junio 2020-Actualidad
    
   Mis actividades del día a día consisten en el desarrollo de una Aplicacion Movil para Android, capacitar al cliente para el uso de esta.
