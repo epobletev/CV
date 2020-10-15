@@ -26,21 +26,20 @@ Lenguajes
  #### Desarrollador
    Junio 2020-Actualidad
    
-  Mis actividades del día a día consisten en el desarrollo de una Aplicacion Movil para Android, capacitar al cliente para el uso de esta.
-  Proyectos y tecnologías en los cuales he estado involucrado:
-   - Banco Security - Kotlin/Retrofit2/Room: Aplicacion Movil Android la cual trabaja consumiendo servicios REST pensada para ejecutivos de banco la cual busca mejorar las oportunidades de negocio al transferirles llamados a traves de un RobotAI de llamados robotizados.
-        Esta aplicacion le permite a los ejecutivos realizar un inicio de sesion en el sistema y decidir cuando estan disponibles para potenciales oportunidades de negocios con un cliente.
-   - Banco Security - Express.js/MySQL: Servicio REST el cual realiza labores de inicio de sesion y entrega de informacion, utilizando un motor de base de datos MySQL, este servicio interactuaba entre la base de datos y la aplicacion movil para le manejo de la informacion requerida por el usuario.
+  Mis actividades del día a día consisten en el desarrollo de una Aplicación Móvil para Android, capacitar al cliente para el uso de esta. Proyectos y tecnologías en los cuales he estado involucrado:
+   - Banco Security - Kotlin/Retrofit2/Room: Aplicación Móvil Android la cual trabaja consumiendo servicios REST pensada para ejecutivos de banco la cual busca mejorar las oportunidades de negocio al transferirles llamados a través de un RobotAI de llamados robotizados. Esta aplicación le permite a los ejecutivos realizar un inicio de sesión en el sistema y decidir cuando están disponibles para potenciales oportunidades de negocios con un cliente.
+   
+   - Banco Security - Express.js/MySQL: Servicio REST el cual realiza labores de inicio de sesión y entrega de información, utilizando un motor de base de datos MySQL, este servicio interactuaba entre la base de datos y la aplicación móvil para le manejo de la información requerida por el usuario.
    
    Otras habilidades y obligaciones:
-   - Capacitacion de usuarios para el uso de las propuestas de la empresa
+   - Capacitación de usuarios para el uso de las propuestas de la empresa.
 ## Cargos Anteriores
 ### NDT Consultora - Santiago, Chile.
  #### Practica Profesional
   Marzo 2019-Junio 2019
 Las actividades del día a día consistían en:
-   - Evolutivos a WebService creado en Spring pensado para cliente el cual consistia en la busqueda interna de clientes ENEL con deudas y potenciales repactaciones
-   - Versionamiento de proyectos de la empresa a traves de la plataforma GitHub
+   - Evolutivos a WebService creado en Spring pensado para cliente el cual consistía en la búsqueda interna de clientes ENEL con deudas y potenciales repactaciones
+   - Versionamiento de proyectos de la empresa a través de la plataforma GitHub
 Otras obligaciones:
 
   - Brindar apoyo técnico a los trabajadores de la empresa con sus equipos de trabajo, impresora, etc.
