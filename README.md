@@ -5,8 +5,7 @@ Santiago, Chile
     Email - em.poblete.v@gmail.com
     Github - epobletev
 ## Perfil
-Desde niño me intereso la tecnología, era apasionado de los videojuegos, lo cual me llevo a buscar el cómo funcionan y crean, luego esto me llevo a tener un interes por la informática en general.
-Soy una persona autodidacta, por lo cual busco poder aprender y desarrollar mis habilidades en cuanto a la programación, utilizando las ultimas tecnologias emergentes.
+Desde niño me intereso la tecnología, era apasionado de los videojuegos, lo cual me llevo a buscar el cómo funcionan y crean, luego esto me llevo a tener un interés por la informática en general. Soy una persona autodidacta, por lo cual busco poder aprender y desarrollar mis habilidades en cuanto a la programación, utilizando las ultimas tecnologías emergentes. 
 
 ## Conocimientos y Habilidades
 Lenguajes
