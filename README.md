@@ -26,7 +26,7 @@ Lenguajes
    - Retrofit2
    - ROOM
    - MySQL, SQL Oracle.
-## Cargo mas renciente.
+## Cargo mas reciente.
  ### Alteor - Santiago, Chile.
  #### Desarrollador Android
    Junio 2020-Noviembre 2020
