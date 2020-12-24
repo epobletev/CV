@@ -5,7 +5,11 @@ Santiago, Chile
     Email - em.poblete.v@gmail.com
     Github - epobletev
 ## Perfil
-Desde niño me intereso la tecnología, era apasionado de los videojuegos, lo cual me llevo a buscar el cómo funcionan y crean, luego esto me llevo a tener un interés por la informática en general. Soy una persona autodidacta, por lo cual busco poder aprender y desarrollar mis habilidades en cuanto a la programación, utilizando las últimas tecnologías emergentes. 
+Hola! Mi nombre es Emilio, titulado en Analista Programador.
+Desde niño me intereso la tecnología, era apasionado de los videojuegos, lo cual me llevo a buscar el cómo funcionan y crean, esto me llevo a tener un interés por la informática en general.
+Soy un programador(O eso espero) autodidacta, por lo cual no me quedo solo con lo que me enseñaron en una sala de clases, esto me lleva constantemente a mejorar mis habilidades tanto en el ámbito profesional como personal, aprendiendo nuevas herramientas y tecnologías de desarrollo.
+Actualmente aprendiendo Javascript y sus Frameworks NodeJS y React
+Aparte también me gusta leer  manga.
 
 ## Conocimientos y Habilidades
 Lenguajes
@@ -24,7 +28,7 @@ Lenguajes
 ## Cargo Actual
  ### Alteor - Santiago, Chile.
  #### Desarrollador Android
-   Junio 2020-Actualidad
+   Junio 2020-Noviembre 2020
    
   Mis actividades del día a día consisten en el desarrollo de una Aplicación Móvil para Android, capacitar al cliente para el uso de esta. Proyectos y tecnologías en los cuales he estado involucrado:
    - Banco Security - Kotlin/Retrofit2/Room: Aplicación Móvil Android la cual trabaja consumiendo servicios REST pensada para ejecutivos de banco la cual busca mejorar las oportunidades de negocio al transferirles llamados a través de un RobotAI de llamados robotizados. Esta aplicación le permite a los ejecutivos realizar un inicio de sesión en el sistema y decidir cuando están disponibles para potenciales oportunidades de negocios con un cliente.
