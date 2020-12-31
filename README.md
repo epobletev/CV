@@ -7,7 +7,7 @@ Santiago, Chile
 ## Perfil
 Hola! Mi nombre es Emilio, titulado en Analista Programador.
 Desde niño me intereso la tecnología, era apasionado de los videojuegos, lo cual me llevo a buscar el cómo funcionan y crean, esto me llevo a tener un interés por la informática en general.
-Soy un programador(O eso espero) autodidacta, por lo cual no me quedo solo con lo que me enseñaron en una sala de clases, esto me lleva constantemente a mejorar mis habilidades tanto en el ámbito profesional como personal, invenstigando nuevas herramientas y tecnologías de desarrollo.
+Soy un programador(O eso espero) autodidacta, por lo cual no me quedo solo con lo que me enseñaron en una sala de clases, esto me lleva constantemente a mejorar mis habilidades tanto en el ámbito profesional como personal, investigando nuevas herramientas y tecnologías de desarrollo.
 Actualmente aprendiendo Javascript y sus Frameworks NodeJS y React.
 
 Aparte también me gusta leer  manga.
