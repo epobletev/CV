@@ -7,25 +7,26 @@ Santiago, Chile
 ## Perfil
 Hola! Mi nombre es Emilio, titulado en Analista Programador.
 Desde niño me intereso la tecnología, era apasionado de los videojuegos, lo cual me llevo a buscar el cómo funcionan y crean, esto me llevo a tener un interés por la informática en general.
-Soy un programador(O eso espero) autodidacta, por lo cual no me quedo solo con lo que me enseñaron en una sala de clases, esto me lleva constantemente a mejorar mis habilidades tanto en el ámbito profesional como personal, investigando nuevas herramientas y tecnologías de desarrollo.
-Actualmente aprendiendo Javascript y sus Frameworks NodeJS y React.
+Me considero un programador(O eso espero!) autodidacta, por lo cual mi actual meta es aprender todo lo posible tanto de manera personal como profesional, esto me lleva a estar constantemente investigando nuevas herramientas y tecnologías de desarrollo. 
+Actualmente aprendiendo Javascript, enfocándome principalmente en sus frameworks Node.JS y React.
 
-Aparte también me gusta leer  manga.
+Aparte también me gusta leer manga.
+
 
 ## Conocimientos y Habilidades
 Lenguajes
-   - Java.
-   - Kotlin.
-   - JavaScript.
-   - C#.
-   - HTML5.
-   - CSS.
+   - JavaScript
+   - Kotlin
+   - Java
+   - Python
 ### Herramientas y FrameWorks
    - Node.js, Express.js, NPM.
-   - Git.
-   - Retrofit2
-   - ROOM
-   - MySQL, SQL Oracle.
+   - React
+   - Springboot
+   - Django
+   - Heroku
+   - Firebase
+   - MySQL, SQL Oracle, PostgresSQL.
 ## Cargo mas reciente.
  ### Alteor - Santiago, Chile.
  #### Desarrollador Android
@@ -55,6 +56,6 @@ Otras obligaciones:
 ## Educación
 ### Duoc UC - Santiago, Chile
 #### Analista Programador Computacional
-Marzo 2017– Junio 2019
+ 2017– 2019
 
 Titulado de la carrera Analista Programador Computacional en la Institución Duoc UC en la sede San Joaquín.
