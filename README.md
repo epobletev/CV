@@ -28,8 +28,10 @@ Lenguajes
    - Firebase
    - MySQL, SQL Oracle, PostgresSQL.
 ## Cargo mas reciente.
+
  ### Alteor - Santiago, Chile.
- #### Desarrollador Android
+ 
+ #### Desarrollador 
    Junio 2020-Noviembre 2020
    
   Mis actividades del día a día consisten en el desarrollo de una Aplicación Móvil para Android, capacitar al cliente para el uso de esta. Proyectos y tecnologías en los cuales he estado involucrado:
@@ -40,7 +42,9 @@ Lenguajes
    Otras habilidades y obligaciones:
    - Capacitación de usuarios para el uso de las propuestas de la empresa.
 ## Cargos Anteriores
+
 ### NDT Consultora - Santiago, Chile.
+
  #### Practica Profesional
   Marzo 2019-Junio 2019
 Las actividades del día a día consistían en:
