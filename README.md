@@ -1,65 +1,78 @@
-# Emilio Poblete V.
-Programador
-Santiago, Chile
+# Emilio Poblete Valenzuela
+## Contacto
 
-    Email - em.poblete.v@gmail.com
-    Github - epobletev
+- **Email**     - em.poblete.v@gmail.com
+
+- **Telefono**  - +56 91738918
+
+- **Linkedin**  - [epobletev](https://www.linkedin.com/in/epobletev/ "epobletev")
+
+- **GitHub**    - [epobletev](https://github.com/epobletev "epobletev")
+
 ## Perfil
-Hola! Mi nombre es Emilio, titulado en Analista Programador.
-Desde niño me intereso la tecnología, era apasionado de los videojuegos, lo cual me llevo a buscar el cómo funcionan y crean, esto me llevo a tener un interés por la informática en general.
-Me considero un programador(O eso espero!) autodidacta, por lo cual mi actual meta es aprender todo lo posible tanto de manera personal como profesional, esto me lleva a estar constantemente investigando nuevas herramientas y tecnologías de desarrollo. 
-Actualmente aprendiendo Javascript, enfocándome principalmente en sus frameworks Node.JS y React.
-
-Aparte también me gusta leer manga.
+Analista Programador con una alta orientación hacia el desarrollo de software  y el aprendizaje constante de nuevas tecnologías; ya sea de manera autodidacta o a través del conocimiento de mis pares y superiores, siempre con el objetivo de mejorar continuamente y aportar al logro de los objetivos y compromisos propuestos en los diversos desafíos que me toque enfrentar profesionalmente.
 
 
 ## Conocimientos y Habilidades
-Lenguajes
+### Lenguajes
    - JavaScript
    - Kotlin
    - Java
    - Python
-### Herramientas y FrameWorks
-   - Node.js, Express.js, NPM.
+### Herramientas y Framework
+   - Node.JS
    - React
    - Springboot
    - Django
    - Heroku
    - Firebase
-   - MySQL, SQL Oracle, PostgresSQL.
-## Cargo mas reciente.
+   - MySQL, SQLOracle , PostgresSQL
+### Idioma
+   - Español Nativo
+   
+   - Ingles Intermedio
+## Experiencia Previa
 
- ### Alteor - Santiago, Chile.
- 
- #### Desarrollador 
-   Junio 2020-Noviembre 2020
+### Alteor - Santiago, Chile.
+  
+### Desarrollador 
+  
+   Junio 2020 - Noviembre 2020
    
-  Mis actividades del día a día consisten en el desarrollo de una Aplicación Móvil para Android, capacitar al cliente para el uso de esta. Proyectos y tecnologías en los cuales he estado involucrado:
-   - Banco Security - Kotlin/Retrofit2/Room: Aplicación Móvil Android la cual trabaja consumiendo servicios REST pensada para ejecutivos de banco la cual busca mejorar las oportunidades de negocio al transferirles llamados a través de un RobotAI de llamados robotizados. Esta aplicación le permite a los ejecutivos realizar un inicio de sesión en el sistema y decidir cuando están disponibles para potenciales oportunidades de negocios con un cliente.
-   
-   - Banco Security - Express.js/MySQL: Servicio REST el cual realiza labores de inicio de sesión y entrega de información, utilizando un motor de base de datos MySQL, este servicio interactuaba entre la base de datos y la aplicación móvil para le manejo de la información requerida por el usuario.
-   
-   Otras habilidades y obligaciones:
-   - Capacitación de usuarios para el uso de las propuestas de la empresa.
-## Cargos Anteriores
+Mis actividades consistían en el desarrollo tanto Front-End como Back-End de mobile app nativa Android, revisión de código, pruebas para asegurar la calidad de la aplicación, versionamiento del proyecto.
+	
+- Banco Security: Robot Call Mobile - Kotlin + Retrofit2 + ROOM, Node.JS + Express.JS + MySQL
+	
+- Documentación Robot Call Mobile.
+	
+- Manual y capacitación de usuarios.
 
 ### NDT Consultora - Santiago, Chile.
 
- #### Practica Profesional
-  Marzo 2019-Junio 2019
-Las actividades del día a día consistían en:
-   - Evolutivos a WebService creado en Spring pensado para cliente el cual consistía en la búsqueda interna de clientes ENEL con deudas y potenciales repactaciones
-   - Versionamiento de proyectos de la empresa a través de la plataforma GitHub
-Otras obligaciones:
-
-  - Brindar apoyo técnico a los trabajadores de la empresa con sus equipos de trabajo, impresora, etc.
-## Proyectos Personales
-### [OkitaBOT](https://github.com/epobletev/OkitaBOT "OkitaBot")
-  - Bot para la plataforma Discord el cual utiliza la libreria [Discord.JS](https://discord.js.org/#/)
+### Practica Profesional
+ 
+  Marzo 2019 - Junio 2019
   
+Mis acconsistían en el desarrollo y  evolutivos a REST API, Soporte y versionamiento de proyectos de la empresa:
+
+   - RDD Enel: Springboot + PostgresSQL + Maven.
+   
+   
+   - Versionamiento y traslado de proyectos de la empresa a plataforma GitHub.
+   
+   - Capacitación para el uso de plataforma GitHub.
+
+## Proyectos Personales
+
+### [OkitaBOT](https://github.com/epobletev/OkitaBOT "OkitaBot")
+  - Bot para la plataforma Discord con variedad de comandos de ocio para servidor privado de amigos hosteado en Heroku, el cual utiliza la libreria [Discord.JS](https://discord.js.org/#/) 
+
+
 ## Educación
+
 ### Duoc UC - Santiago, Chile
-#### Analista Programador Computacional
  2017– 2019
+ 
+**Analista Programador**
 
 Titulado de la carrera Analista Programador Computacional en la Institución Duoc UC en la sede San Joaquín.
