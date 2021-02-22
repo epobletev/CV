@@ -49,7 +49,7 @@ Mis actividades consistían en el desarrollo tanto Front-End como Back-End de mo
 
 ### NDT Consultora - Santiago, Chile.
 
-### Practica Profesional
+### Práctica Profesional
  
   Marzo 2019 - Junio 2019
   
